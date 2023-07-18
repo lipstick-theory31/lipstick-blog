@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+body{
+    background-color: #EFE7EE;
+}
+
+.website-title {
+    color: #F0A1E8;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 0px;
+}
+
+.subheading {
+    color: black;
+    font-size: 35px;
+    text-align: center;
+    font-family: Great Vibes;
+    margin-top: 0px;
+}
