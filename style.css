@@ -17,3 +17,25 @@ body{
     font-family: Great Vibes;
     margin-top: 0px;
 }
+
+.image-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.image-container img{
+    width: 100%;
+}
+/*media query */
+@media screen and (max-width:600px) {
+    h1 {
+        font-size: 14px;
+    }
+    .image-container {
+        margin: 10px;
+        display: block;
+        width: 100%;
+    }
+}
